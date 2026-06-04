@@ -1,1 +1,1 @@
-# game-2d-Roguelike
+# folder for the game '2d roguelike'
